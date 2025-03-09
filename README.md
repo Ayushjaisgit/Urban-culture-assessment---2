@@ -1,1 +1,4 @@
 ##   I have partially completed the second assessment as i wanted to use MasterGST API but, it needs 10 days to process my request to give me the access of the testing environment and sandbox so i couldn't completely implement it in this application as of now, but will implement it as soon as i get the access for learning purposes, also i have implemented authentication and authorization for this application and also used firebase cloud function and firestore, i had no familarity with firebase firestore and cloud functions, i learned about it and came up with the implementation as mentioned in the codebase, added validations using JOI and followed MVC pattern.
+
+
+### Here is the whole explanation video link - https://www.loom.com/share/ccfef04454394630a0a5156b560c1059?sid=25fe467f-2bd9-40b5-8e82-b8b049001b6a 
